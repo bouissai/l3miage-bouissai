@@ -2,8 +2,6 @@
 
 👨‍💻 Je code en JAVA, Python, SQL, JS, TS, Angular…
 
-🔍 Je suis en recherche de stage pour cette année et poursuivre par une alternance par la suite.
-
 📇 Mail : bouissailyass@gmail.com
 
 <!---
