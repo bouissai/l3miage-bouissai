@@ -1,4 +1,4 @@
-✅  Étudiant en L3 MIAGE motivé, curieux, doté d'une bonne capacité d'adaptation et d'un bon relationnel.
+✅  Étudiant en M1 MIAGE motivé, curieux, doté d'une bonne capacité d'adaptation et d'un bon relationnel.
 
 👨‍💻 Je code en JAVA, Python, SQL, JS, TS, Angular…
 
